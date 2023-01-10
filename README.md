@@ -1,5 +1,5 @@
 # Week 1 Excel Challenge – Crowdfunding
-Data Analysis
+## Data Analysis<br>
 Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
 1.	Looking at the “Stacked Outcome”, it’s easy to identify that the “theater” campaign outnumbered all other categories with 344 in total, followed by “film & video” (178) and “music” (175). This indicates that these three categories are fairly popular when it comes to crowdfunding campaigns. 
 2.	In terms of the campaign performance, looking at the “success/failure” ratio, overall achieved 1.55 with “photography” the highest, 2.36, and “games” the lowest, 0.91. Taking a deeper look at the “theater” category, which only has one sub-category, “plays”, though it has the greatest number of campaigns, its “success/failure” is 1.42, below the overall value. Another consideration of the performance is “success rate”, Successful/Grand Total, but considering the size of each category campaign, “technology” and “photography” outperformed others. We can find that these two categories were the most effective ones
