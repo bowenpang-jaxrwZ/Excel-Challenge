@@ -1,4 +1,4 @@
-# Week 1 Challenge – Crowdfunding
+# Week 1 Excel Challenge – Crowdfunding
 Data Analysis
 Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
 1.	Looking at the “Stacked Outcome”, it’s easy to identify that the “theater” campaign outnumbered all other categories with 344 in total, followed by “film & video” (178) and “music” (175). This indicates that these three categories are fairly popular when it comes to crowdfunding campaigns. 
